@@ -14,7 +14,7 @@ This project is a responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScri
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/Ajay-Berwal/tic-tac-toe
     ```
 2. Navigate to the project directory:
     ```bash
